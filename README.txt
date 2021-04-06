@@ -1,6 +1,4 @@
-Helios by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+DI3D by Sebastian Gonzalez | Segota9@hotmail.com for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
 This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
